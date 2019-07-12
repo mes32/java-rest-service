@@ -17,7 +17,7 @@ The query parameter `name` can be used to customize reponse: [http://localhost:8
 
 ```json
 {
-    id: 1,
-    content: "Hello, User!"
+    "id": 1,
+    "content": "Hello, User!"
 }
 ```
