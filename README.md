@@ -21,3 +21,6 @@ The query parameter `name` can be used to customize reponse: [http://localhost:8
     "content": "Hello, User!"
 }
 ```
+
+## References
+[spring.io/guides/gs/rest-service](https://spring.io/guides/gs/rest-service)
